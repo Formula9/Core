@@ -12,8 +12,6 @@ more compatible with design aspects of Formula Nine.
 Silex is used in this manner in accordance with the Silex MIT License. All related copyrights and attributions
 remain in force and are copyright (c) 2010-2016, SensioLabs and Fabien Potencier.
   
-Alterations and additions to the original Silex codebase are copyright (c) 2016, Greg Truesdell and are released under the MIT License 
-   
 References: 
 -- [Silex Framework](http://silex.sensiolabs.org/).
 -- [Silex on Github](https://github.com/silexphp).

@@ -1,8 +1,8 @@
 {
-    "name": "silex/silex",
-    "description": "The PHP micro-framework based on the Symfony Components",
+    "name": "formula9/core",
+    "description": "Formula Nine Core framework based on Silex 2.",
     "keywords": ["microframework"],
-    "homepage": "http://silex.sensiolabs.org",
+    "homepage": "https://github.com/Formula9/Core",
     "license": "MIT",
     "authors": [
         {
@@ -12,6 +12,10 @@
         {
             "name": "Igor Wiedler",
             "email": "igor@wiedler.ch"
+        },
+        {
+            "name": "Greg Truesdell",
+            "email": "odd.greg@gmail.com"
         }
     ],
     "require": {
@@ -32,11 +36,11 @@
         "psr-4": { "Silex\\": "src/Silex" }
     },
     "autoload-dev" : {
-        "psr-4": { "Silex\\Tests\\" : "tests/Silex/Tests" }
+
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "2.0.x-dev"
+            "dev-master": "0.4.2.x-dev"
         }
     },
     "minimum-stability": "dev"
